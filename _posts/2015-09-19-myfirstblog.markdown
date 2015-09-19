@@ -3,7 +3,7 @@ layout: post
 title:  "致即将踏上高中课程的同学"
 date:   2015-09-19 08:43:59
 author: Mike
-categories: Blog
+categories: dummy
 ---
 
 我作为一名从高中走过的一名大二的学生，对高中也有一些见解和建议，希望可以给大家带来一些体会。
