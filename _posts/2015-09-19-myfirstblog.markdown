@@ -6,6 +6,15 @@ author: Mike
 categories: Blog
 ---
 
+This is just a dummy post. Lorem ipsum and all the rest.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 我作为一名从高中走过的一名大二的学生，对高中也有一些见解和建议，希望可以给大家带来一些体会。
 
 首先，高中是一个除了大学以外一个十分重要的知识储备阶段。在经历了初中叛逆期的历练到了高中开始会有自己的一些思考。但是这一个阶段也不是十分稳定，在心智上面会出现一定的波动，拿我个人的例子来讲，我的初中和高中历程有点相似，都是第一年比较优秀，第二年退步，然后第三年再迎头赶上，所以对于我来讲，到高二高三再到大一，这三年我开始有自己的思考，也许说之前也会有一些想法，但是这三年才是对自己人生的一个真正的审视。
