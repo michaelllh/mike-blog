@@ -30,8 +30,15 @@ jekyll-archives:
     category: '/category/:name/'
     tag: '/tag/:name/'
 
+#评论设置，这里使用的是Disqus，但是不是很适合国内使用
 # Disqus comments
 #disqus_shortname: Mike
+
+#使用多说的评论系统
+comments :
+    provider : duoshuo
+    duoshuo : 
+      short_name : mike-blog
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -44,10 +51,7 @@ descriptions:
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
-comments :
-    provider : duoshuo
-    duoshuo : 
-      short_name : mike-blog
+
 
 # Social icons and sharing options
 #
