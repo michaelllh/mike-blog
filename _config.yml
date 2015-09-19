@@ -23,7 +23,7 @@ paginate_path: "/page:num/"
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives: 
   enabled: 
-    - categories
+    - categories  
     - tags
   layout: 'archive'
   permalinks:
@@ -43,6 +43,11 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+
+comments :
+    provider : duoshuo
+    duoshuo : 
+      short_name : mike-blog
 
 # Social icons and sharing options
 #
@@ -97,4 +102,5 @@ social:
     share_url: 
     share_title: 
     share_link:
+
 
