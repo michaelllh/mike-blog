@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="post">
-
+<!--显示标题和作者信息-->
 <div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url({{ page.cover | prepend: site.baseurl }});"{% endif %}>
 	<div class="scrim {% if page.cover %}has-cover{% endif %}">
 		<header class="post-header">
@@ -15,7 +15,7 @@ layout: default
 <div class="wrapper">
 
 {% unless page.cover %} {% include page_divider.html %} {% endunless %}
-
+<!--时间显示代码和类别判断-->
 <section class="post-meta">
 	<div class="post-date">{{ page.date | date: "%B %-d, %Y" }}</div>
 	<div class="post-categories">
@@ -28,11 +28,11 @@ layout: default
 	{% endfor %}{% endif %}
 	</div>
 </section>	
-
+<!--文章代码-->
 <article class="post-content">
   {{ content }}
 </article>
-
+<!--标签代码-->
 {% if site.jekyll-archives %}
 {% if page.tags.size > 0 %}
 <section class="tags">
@@ -40,7 +40,7 @@ layout: default
 </section>
 {% endif %}
 {% endif %}
-
+<!--订阅信息代码-->
 <section class="rss">
 	<p class="rss-subscribe text"><strong>Subscribe <a href="{{ "feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
 </section>
