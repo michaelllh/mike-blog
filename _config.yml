@@ -1,6 +1,8 @@
+
 # External gems
 gems:
   - jekyll-archives # Sorry, not GitHub pages friendly!
+  - jekyll-paginate
   - jekyll-sitemap
 
 # Site settings
@@ -15,6 +17,7 @@ url: "http://github.com/michaelllh" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
 
+#highlighter: rouge
 # Build settings
 markdown: kramdown
 paginate: 5
@@ -30,7 +33,7 @@ jekyll-archives:
     category: '/category/:name/'
     tag: '/tag/:name/'
 
-#评论设置，这里使用的是Disqus，但是不是很适合国内使用
+#评论设置，这里使用的是Disqus，但是不是很适合国内使用,我修改到了多说系统
 # Disqus comments
 #disqus_shortname: Mike
 
