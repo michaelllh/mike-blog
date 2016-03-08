@@ -20,7 +20,7 @@ logo: "assets/logo.png"
 #highlighter: rouge
 # Build settings
 markdown: kramdown
-paginate: 5
+paginate: 6
 paginate_path: "/page:num/"
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
